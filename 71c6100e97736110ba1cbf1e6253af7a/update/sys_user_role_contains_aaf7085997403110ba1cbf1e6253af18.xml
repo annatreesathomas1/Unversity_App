@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_1088808_uniapply.admission_committee" name="x_1088808_uniapply.admission_committee">6667791497083110ba1cbf1e6253af76</contains>
+        <role display_value="x_1088808_uniapply.admin" name="x_1088808_uniapply.admin">4b05c49597403110ba1cbf1e6253af71</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 06:03:48</sys_created_on>
+        <sys_id>aaf7085997403110ba1cbf1e6253af18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1088808_uniapply.admission_committee.x_1088808_uniapply.admin</sys_name>
+        <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
+        <sys_update_name>sys_user_role_contains_aaf7085997403110ba1cbf1e6253af18</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 06:03:48</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
