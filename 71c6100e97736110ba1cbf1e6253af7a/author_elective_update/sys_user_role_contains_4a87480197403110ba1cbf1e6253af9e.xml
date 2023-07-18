@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="activity_creator" name="activity_creator">6ada344037803100b2cf04368e41f1cc</contains>
+        <role display_value="x_1088808_uniapply.admission_committee" name="x_1088808_uniapply.admission_committee">6667791497083110ba1cbf1e6253af76</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 11:23:22</sys_created_on>
+        <sys_id>4a87480197403110ba1cbf1e6253af9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>activity_creator.x_1088808_uniapply.admission_committee</sys_name>
+        <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
+        <sys_update_name>sys_user_role_contains_4a87480197403110ba1cbf1e6253af9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 11:23:22</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</application>
+        <file_path/>
+        <instance_id>988dd389dbd29998b847ac44d496191e</instance_id>
+        <instance_name>dev138532</instance_name>
+        <name>sys_user_role_contains_4a87480197403110ba1cbf1e6253af9e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="activity_creator" name="activity_creator">6ada344037803100b2cf04368e41f1cc</contains><role display_value="x_1088808_uniapply.admission_committee" name="x_1088808_uniapply.admission_committee">6667791497083110ba1cbf1e6253af76</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-13 11:23:22</sys_created_on><sys_id>4a87480197403110ba1cbf1e6253af9e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>activity_creator.x_1088808_uniapply.admission_committee</sys_name><sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package><sys_policy/><sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope><sys_update_name>sys_user_role_contains_4a87480197403110ba1cbf1e6253af9e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-13 11:23:22</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>-618701922</payload_hash>
+        <record_name>activity_creator.x_1088808_uniapply.admission_committee</record_name>
+        <reverted_from/>
+        <source>0a29d4c297b36110ba1cbf1e6253af5f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 11:23:22</sys_created_on>
+        <sys_id>ce87480197403110ba1cbf1e6253afa4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1894efdc8e00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 11:23:22</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>0a8748016f4031100044fc975d516ca4</update_guid>
+        <update_guid_history>0a8748016f4031100044fc975d516ca4:-618701922</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-13 11:29:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>2960874275434ceca46dc88377140921</sys_id>
+        <sys_metadata>4a87480197403110ba1cbf1e6253af9e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>activity_creator.x_1088808_uniapply.admission_committee</sys_name>
+        <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
+        <sys_scope_delete display_value="">0408eac7a84e4cde808786ebb4052be4</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_4a87480197403110ba1cbf1e6253af9e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_4a87480197403110ba1cbf1e6253af9e">ce87480197403110ba1cbf1e6253afa4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-13 11:29:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

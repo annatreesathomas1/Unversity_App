@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
-        <contains display_value="x_1088808_uniapply.admin" name="x_1088808_uniapply.admin">9ef0284a97b36110ba1cbf1e6253af15</contains>
+        <contains display_value="x_1088808_uniapply.applications_user" name="x_1088808_uniapply.applications_user">9ef0284a97b36110ba1cbf1e6253af15</contains>
         <role display_value="x_1088808_uniapply.graduate_faculty" name="x_1088808_uniapply.graduate_faculty">a108b5d497083110ba1cbf1e6253af62</role>
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>admin</sys_created_by>
