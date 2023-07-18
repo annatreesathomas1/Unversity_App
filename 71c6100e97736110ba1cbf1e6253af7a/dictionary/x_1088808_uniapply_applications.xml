@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="eead18c697b36110ba1cbf1e6253af18" label="Applications" max_length="40" name="x_1088808_uniapply_applications" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Additional Info" max_length="1040" name="additional_info" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Applicant Email" max_length="40" name="applicant_email" type="string"/>
+        <element label="Application number" max_length="40" name="application_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Detail Description" max_length="1000" name="detail_description" type="string"/>
+        <element choice="3" default="fall" label="Intake" max_length="40" name="intake" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fall" value="fall"/>
+                <element inactive_on_update="false" label="Spring" value="spring"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="2023" label="Intake Year" max_length="40" name="intake_year" type="string">
+            <choice>
+                <element inactive_on_update="false" label="2023" sequence="0" value="2023"/>
+                <element inactive_on_update="false" label="2024" sequence="1" value="2024"/>
+                <element inactive_on_update="false" label="2025" sequence="2" value="2025"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Reference Letter 1" max_length="40" name="reference_letter1" type="file_attachment"/>
+        <element label="Reference Letter 2" max_length="40" name="reference_letter2" type="file_attachment"/>
+        <element label="Reference Letter 3" max_length="40" name="reference_letter3" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="Reviewer Comments" max_length="4000" name="reviewer_comments" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="124" name="short_description" type="string"/>
+        <element label="SOP" max_length="40" name="sop" type="file_attachment"/>
+        <element choice="3" default="decision" label="Stage" max_length="40" name="stage" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Decision" value="decision"/>
+                <element inactive_on_update="false" label="Received" value="received"/>
+                <element inactive_on_update="false" label="Review – Admissions committee" value="review_admissions_committee"/>
+                <element inactive_on_update="false" label="Review – Dean" value="review _dean"/>
+                <element inactive_on_update="false" label="Review – Graduate faculty" value="review _graduate_faculty"/>
+            </choice>
+        </element>
+        <element choice="3" default="approved" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="0" value="approved"/>
+                <element inactive_on_update="false" label="Processing" sequence="1" value="processing"/>
+                <element inactive_on_update="false" label="Received" sequence="2" value="received"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+                <element inactive_on_update="false" label="Awaiting Info" sequence="4" value="awaiting_info"/>
+            </choice>
+        </element>
+        <element choice="3" label="Supporting  Documents" max_length="40" name="supporting_documents" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Recommendation Letter" value="recommendation _letter"/>
+                <element inactive_on_update="false" label="SOP" value="sop"/>
+                <element inactive_on_update="false" label="Transcript" value="transcript"/>
+            </choice>
+        </element>
+        <element label="Transcript" max_length="40" name="transcript" type="file_attachment"/>
+    </element>
+</database>

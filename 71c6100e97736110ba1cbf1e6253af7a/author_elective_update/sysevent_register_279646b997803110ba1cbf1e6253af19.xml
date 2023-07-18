@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="DELETE">
+        <caller_access/>
+        <description/>
+        <event_name>x_1088808_uniapply.Request Info</event_name>
+        <fired_by>UI Action</fired_by>
+        <queue/>
+        <suffix>Request Info</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-16 04:36:42</sys_created_on>
+        <sys_id>279646b997803110ba1cbf1e6253af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1088808_uniapply.Request Info</sys_name>
+        <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
+        <sys_update_name>sysevent_register_279646b997803110ba1cbf1e6253af19</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-16 04:36:42</sys_updated_on>
+        <table>x_1088808_uniapply_applications</table>
+    </sysevent_register>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</application>
+        <file_path/>
+        <instance_id>988dd389dbd29998b847ac44d496191e</instance_id>
+        <instance_name>dev138532</instance_name>
+        <name>sysevent_register_279646b997803110ba1cbf1e6253af19</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register"><sysevent_register action="INSERT_OR_UPDATE"><caller_access/><description/><event_name>x_1088808_uniapply.Request Info</event_name><fired_by>UI Action</fired_by><queue/><suffix>Request Info</suffix><sys_class_name>sysevent_register</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-16 04:36:42</sys_created_on><sys_id>279646b997803110ba1cbf1e6253af19</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1088808_uniapply.Request Info</sys_name><sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package><sys_policy/><sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope><sys_update_name>sysevent_register_279646b997803110ba1cbf1e6253af19</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-16 04:36:42</sys_updated_on><table>x_1088808_uniapply_applications</table></sysevent_register></record_update>]]></payload>
+        <payload_hash>1872046756</payload_hash>
+        <record_name>x_1088808_uniapply.Request Info</record_name>
+        <reverted_from/>
+        <source>0a29d4c297b36110ba1cbf1e6253af5f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-16 04:36:42</sys_created_on>
+        <sys_id>ee370e7197c03110ba1cbf1e6253afa2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1895cfc8e000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-16 04:36:42</sys_updated_on>
+        <type>Event Registration</type>
+        <update_guid>2a370e71e6c03110bdacbf5f89b807a2</update_guid>
+        <update_guid_history>2a370e71e6c03110bdacbf5f89b807a2:1872046756</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-17 05:17:28</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_register">sysevent_register</sys_db_object>
+        <sys_id>4fd9beed714b480081a29ff300100000</sys_id>
+        <sys_metadata>279646b997803110ba1cbf1e6253af19</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1088808_uniapply.Request Info</sys_name>
+        <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
+        <sys_parent display_value="Applications">eead18c697b36110ba1cbf1e6253af18</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
+        <sys_scope_delete display_value="">0408eac7a84e4cde808786ebb4052be4</sys_scope_delete>
+        <sys_update_name>sysevent_register_279646b997803110ba1cbf1e6253af19</sys_update_name>
+        <sys_update_version display_value="sysevent_register_279646b997803110ba1cbf1e6253af19">ee370e7197c03110ba1cbf1e6253afa2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-17 05:17:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

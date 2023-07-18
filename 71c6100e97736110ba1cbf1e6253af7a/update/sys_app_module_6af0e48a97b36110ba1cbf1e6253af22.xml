@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Applications">22f0e48a97b36110ba1cbf1e6253af1f</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Applications</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1088808_uniapply_applications</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1088808_uniapply.applications_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-04 05:32:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6af0e48a97b36110ba1cbf1e6253af22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Applications</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
+        <sys_update_name>sys_app_module_6af0e48a97b36110ba1cbf1e6253af22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-04 05:32:46</sys_updated_on>
+        <timeline_page/>
+        <title>Applications</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
