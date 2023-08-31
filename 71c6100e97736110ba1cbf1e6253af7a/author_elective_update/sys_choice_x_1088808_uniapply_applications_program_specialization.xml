@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="program_specialization" table="x_1088808_uniapply_applications" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>program_specialization</element>
+            <name>x_1088808_uniapply_applications</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 09:03:11</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>program_specialization</sys_name>
+            <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
+            <sys_update_name>sys_choice_x_1088808_uniapply_applications_program_specialization</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 09:03:11</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>program_specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Science</label>
+            <language>en</language>
+            <name>x_1088808_uniapply_applications</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 09:03:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2ad158f97d03110ba1cbf1e6253af17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 09:03:11</sys_updated_on>
+            <value>data_science</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>program_specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Artificial Intelligence</label>
+            <language>en</language>
+            <name>x_1088808_uniapply_applications</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 09:03:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06ad158f97d03110ba1cbf1e6253af18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 09:03:11</sys_updated_on>
+            <value>artificial_intelligence</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>program_specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cyber Security</label>
+            <language>en</language>
+            <name>x_1088808_uniapply_applications</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 09:03:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82ad158f97d03110ba1cbf1e6253af19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 09:03:11</sys_updated_on>
+            <value>cyber_security</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>program_specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Photonics</label>
+            <language>en</language>
+            <name>x_1088808_uniapply_applications</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 09:03:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02ad158f97d03110ba1cbf1e6253af1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 09:03:11</sys_updated_on>
+            <value>photonics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>program_specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Systems Power And Energy</label>
+            <language>en</language>
+            <name>x_1088808_uniapply_applications</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 09:03:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ead158f97d03110ba1cbf1e6253af1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 09:03:11</sys_updated_on>
+            <value>systems_power_and_energy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>program_specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Robotics</label>
+            <language>en</language>
+            <name>x_1088808_uniapply_applications</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 09:03:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ead158f97d03110ba1cbf1e6253af1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 09:03:11</sys_updated_on>
+            <value>robotics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>program_specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mechatronics</label>
+            <language>en</language>
+            <name>x_1088808_uniapply_applications</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 09:03:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8aad158f97d03110ba1cbf1e6253af1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 09:03:11</sys_updated_on>
+            <value>mechatronics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>program_specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nanotechnology</label>
+            <language>en</language>
+            <name>x_1088808_uniapply_applications</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 09:03:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0aad158f97d03110ba1cbf1e6253af1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 09:03:11</sys_updated_on>
+            <value>nanotechnology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>program_specialization</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3D modelling</label>
+            <language>en</language>
+            <name>x_1088808_uniapply_applications</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 09:03:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86ad158f97d03110ba1cbf1e6253af1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 09:03:11</sys_updated_on>
+            <value>3d modelling</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
