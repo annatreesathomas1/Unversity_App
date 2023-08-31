@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Application" section_id="53aaa66a97b32110ba1cbf1e6253afb0" sys_domain="global" table="x_1088808_uniapply_applications" version="3" view="">
+    <sys_ui_section caption="Program Details" section_id="da31a94397143110ba1cbf1e6253af2d" sys_domain="global" table="x_1088808_uniapply_applications" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>name</element>
+            <element>program</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-01 09:39:59</sys_created_on>
-            <sys_id>8916e18797143110ba1cbf1e6253afbc</sys_id>
+            <sys_created_on>2023-08-01 09:41:40</sys_created_on>
+            <sys_id>b976e98797143110ba1cbf1e6253af88</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Application" display_value="Application" name="x_1088808_uniapply_applications" sys_domain="global" view="Default view">53aaa66a97b32110ba1cbf1e6253afb0</sys_ui_section>
+            <sys_ui_section caption="Program Details" display_value="Program Details" name="x_1088808_uniapply_applications" sys_domain="global" view="Default view">da31a94397143110ba1cbf1e6253af2d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-01 09:39:59</sys_updated_on>
+            <sys_updated_on>2023-08-01 09:41:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>programspecialization</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-01 09:39:59</sys_created_on>
-            <sys_id>0116e18797143110ba1cbf1e6253afbd</sys_id>
+            <sys_created_on>2023-08-01 09:41:40</sys_created_on>
+            <sys_id>3d76e98797143110ba1cbf1e6253af88</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Application" display_value="Application" name="x_1088808_uniapply_applications" sys_domain="global" view="Default view">53aaa66a97b32110ba1cbf1e6253afb0</sys_ui_section>
+            <sys_ui_section caption="Program Details" display_value="Program Details" name="x_1088808_uniapply_applications" sys_domain="global" view="Default view">da31a94397143110ba1cbf1e6253af2d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-01 09:39:59</sys_updated_on>
+            <sys_updated_on>2023-08-01 09:41:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>applicant_email</element>
+            <element>scholarship</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-01 09:39:59</sys_created_on>
-            <sys_id>8116e18797143110ba1cbf1e6253afbd</sys_id>
+            <sys_created_on>2023-08-01 09:41:40</sys_created_on>
+            <sys_id>bd76e98797143110ba1cbf1e6253af88</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Application" display_value="Application" name="x_1088808_uniapply_applications" sys_domain="global" view="Default view">53aaa66a97b32110ba1cbf1e6253afb0</sys_ui_section>
+            <sys_ui_section caption="Program Details" display_value="Program Details" name="x_1088808_uniapply_applications" sys_domain="global" view="Default view">da31a94397143110ba1cbf1e6253af2d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-01 09:39:59</sys_updated_on>
+            <sys_updated_on>2023-08-01 09:41:40</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption>Application</caption>
+            <caption>Program Details</caption>
             <header>false</header>
             <name>x_1088808_uniapply_applications</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-06 04:51:20</sys_created_on>
+            <sys_created_on>2023-08-01 09:18:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>53aaa66a97b32110ba1cbf1e6253afb0</sys_id>
+            <sys_id>da31a94397143110ba1cbf1e6253af2d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1088808_uniapply_applications</sys_name>
             <sys_overrides/>
             <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
             <sys_policy/>
             <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
-            <sys_update_name>sys_ui_section_53aaa66a97b32110ba1cbf1e6253afb0</sys_update_name>
+            <sys_update_name>sys_ui_section_da31a94397143110ba1cbf1e6253af2d</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-06 04:51:20</sys_updated_on>
+            <sys_updated_on>2023-08-01 09:18:46</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>

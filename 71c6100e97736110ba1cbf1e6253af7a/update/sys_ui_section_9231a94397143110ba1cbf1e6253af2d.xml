@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Additional Info" section_id="744ac45a97c03110ba1cbf1e6253af90" sys_domain="global" table="x_1088808_uniapply_applications" version="3" view="">
+    <sys_ui_section caption="Additional Info" section_id="9231a94397143110ba1cbf1e6253af2d" sys_domain="global" table="x_1088808_uniapply_applications" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>additional_info</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-17 08:47:42</sys_created_on>
-            <sys_id>4d4ac45a97c03110ba1cbf1e6253afcd</sys_id>
+            <sys_created_on>2023-08-01 09:18:47</sys_created_on>
+            <sys_id>a631a94397143110ba1cbf1e6253afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Additional Info" display_value="Additional Info" name="x_1088808_uniapply_applications" sys_domain="global" view="Default view">744ac45a97c03110ba1cbf1e6253af90</sys_ui_section>
+            <sys_ui_section caption="Additional Info" display_value="Additional Info" name="x_1088808_uniapply_applications" sys_domain="global" view="Default view">9231a94397143110ba1cbf1e6253af2d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-17 08:47:42</sys_updated_on>
+            <sys_updated_on>2023-08-01 09:18:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -21,19 +21,19 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-17 08:47:42</sys_created_on>
+            <sys_created_on>2023-08-01 09:18:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>744ac45a97c03110ba1cbf1e6253af90</sys_id>
+            <sys_id>9231a94397143110ba1cbf1e6253af2d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1088808_uniapply_applications</sys_name>
             <sys_overrides/>
             <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
             <sys_policy/>
             <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
-            <sys_update_name>sys_ui_section_744ac45a97c03110ba1cbf1e6253af90</sys_update_name>
+            <sys_update_name>sys_ui_section_9231a94397143110ba1cbf1e6253af2d</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-17 08:47:42</sys_updated_on>
+            <sys_updated_on>2023-08-01 09:18:46</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>

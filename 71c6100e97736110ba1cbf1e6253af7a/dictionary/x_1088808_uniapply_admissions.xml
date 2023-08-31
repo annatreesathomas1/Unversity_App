@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="aa3c11b097507110ba1cbf1e6253af1e" label="Admissions" max_length="40" name="x_1088808_uniapply_admissions" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Applicant Email" max_length="40" name="applicant_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Intake" max_length="40" name="intake" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Intake Year" max_length="40" name="intake_year" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Program" max_length="40" name="program" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Program Specialization" max_length="40" name="program_specialization" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Scholarship" max_length="40" name="scholarship" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
