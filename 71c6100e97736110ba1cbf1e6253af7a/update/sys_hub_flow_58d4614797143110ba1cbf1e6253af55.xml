@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>58d4614797143110ba1cbf1e6253af55</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Admissions</sys_name>
         <sys_overrides/>
         <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
         <sys_update_name>sys_hub_flow_58d4614797143110ba1cbf1e6253af55</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-01 11:22:29</sys_updated_on>
+        <sys_updated_on>2023-09-01 06:36:05</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=58d4614797143110ba1cbf1e6253af55"/>
@@ -413,10 +413,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-01 09:48:42</sys_created_on>
         <sys_id>f018a10b97143110ba1cbf1e6253af9a</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-01 11:23:58</sys_updated_on>
+        <sys_updated_on>2023-09-01 06:46:08</sys_updated_on>
         <ui_id>ec69c5a8-f820-41eb-bf58-716d175ccbe3</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f018a10b97143110ba1cbf1e6253af9a"/>
@@ -572,11 +572,11 @@
         <sys_created_on>2023-08-01 09:48:42</sys_created_on>
         <sys_id>7018a10b97143110ba1cbf1e6253af8a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
         <sys_policy/>
         <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_58d4614797143110ba1cbf1e6253af55_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-08-01 09:48:42</sys_updated_on>
         <url/>
@@ -595,11 +595,11 @@
         <sys_created_on>2023-08-01 09:48:42</sys_created_on>
         <sys_id>7818a10b97143110ba1cbf1e6253af86</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
         <sys_policy/>
         <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_58d4614797143110ba1cbf1e6253af55_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-08-01 09:48:42</sys_updated_on>
         <url/>
@@ -618,11 +618,11 @@
         <sys_created_on>2023-08-01 09:48:42</sys_created_on>
         <sys_id>f018a10b97143110ba1cbf1e6253af8d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
         <sys_policy/>
         <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_58d4614797143110ba1cbf1e6253af55_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-08-01 09:48:42</sys_updated_on>
         <url/>
@@ -636,7 +636,7 @@
         <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"415b758b97543110ba1cbf1e6253af63","name":"plan","plan_signature":null}}</plan>
         <plan_id>58d4614797143110ba1cbf1e6253af55</plan_id>
-        <snapshot>54edbd0f97543110ba1cbf1e6253aff2</snapshot>
+        <snapshot>7c97e88d97497110d23a3e66f053af44</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-01 11:12:49</sys_created_on>
         <sys_domain>global</sys_domain>
@@ -1208,11 +1208,11 @@
         <sys_created_on>2023-08-01 11:12:48</sys_created_on>
         <sys_id>345b758b97543110ba1cbf1e6253af29</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
         <sys_policy/>
         <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_705b758b97543110ba1cbf1e6253af04_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-08-01 11:12:48</sys_updated_on>
         <url/>
@@ -1231,11 +1231,11 @@
         <sys_created_on>2023-08-01 11:12:48</sys_created_on>
         <sys_id>f45b758b97543110ba1cbf1e6253af31</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
         <sys_policy/>
         <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_705b758b97543110ba1cbf1e6253af04_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-08-01 11:12:48</sys_updated_on>
         <url/>
@@ -1254,11 +1254,11 @@
         <sys_created_on>2023-08-01 11:12:49</sys_created_on>
         <sys_id>f45b758b97543110ba1cbf1e6253af39</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="UniApply" source="x_1088808_uniapply">71c6100e97736110ba1cbf1e6253af7a</sys_package>
         <sys_policy/>
         <sys_scope display_value="UniApply">71c6100e97736110ba1cbf1e6253af7a</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_705b758b97543110ba1cbf1e6253af04_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-08-01 11:12:49</sys_updated_on>
         <url/>
