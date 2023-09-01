@@ -42,7 +42,7 @@
         <update_guid_history>1a2c95344ad071105952d8a0937329f6:1423150539</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_1088808_uniapply_admission.x_1088808_uniapply.admission_user">af046df897d07110ba1cbf1e6253af7f</sys_audit_delete>
+        <sys_audit_delete display_value="">af046df897d07110ba1cbf1e6253af7f</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-07-25 09:44:49</sys_created_on>
