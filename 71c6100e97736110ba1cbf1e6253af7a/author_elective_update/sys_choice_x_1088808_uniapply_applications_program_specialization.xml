@@ -40,6 +40,26 @@
             <element>program_specialization</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Systems Power and Energy</label>
+            <language>en</language>
+            <name>x_1088808_uniapply_applications</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-18 05:12:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6353f1e97113110d23a3e66f053afb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-18 05:12:43</sys_updated_on>
+            <value>Systems Power and Energy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>program_specialization</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Artificial Intelligence</label>
             <language>en</language>
             <name>x_1088808_uniapply_applications</name>

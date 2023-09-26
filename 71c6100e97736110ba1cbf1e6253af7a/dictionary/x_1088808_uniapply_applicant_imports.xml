@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8193b3da97113110d23a3e66f053af19" extends="sys_import_set_row" label="Applicant imports" max_length="40" name="x_1088808_uniapply_applicant_imports" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Applicant Email" label="Applicant Email" max_length="40" name="u_applicant_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Intake" label="Intake" max_length="40" name="u_intake" type="string"/>
+        <element attributes="import_attribute_name=Intake year" label="Intake year" max_length="40" name="u_intake_year" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Program" label="Program" max_length="40" name="u_program" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Program Specialization" label="Program Specialization" max_length="40" name="u_program_specialization" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Scholarship" label="Scholarship" max_length="40" name="u_scholarship" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Stage" label="Stage" max_length="40" name="u_stage" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="import_attribute_name=    S No." label="    S No." max_length="40" name="u_s_no_" type="integer"/>
+    </element>
+</database>
