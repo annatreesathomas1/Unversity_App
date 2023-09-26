@@ -42,6 +42,7 @@
         <element attributes="edge_encryption_enabled=true" choice="1" label="Program Specialization" max_length="40" name="program_specialization" type="string">
             <choice>
                 <element inactive_on_update="false" label="Data Science" sequence="0" value="data_science"/>
+                <element inactive_on_update="false" label="Systems Power and Energy" sequence="0" value="Systems Power and Energy"/>
                 <element inactive_on_update="false" label="Artificial Intelligence" sequence="1" value="artificial_intelligence"/>
                 <element inactive_on_update="false" label="Cyber Security" sequence="2" value="cyber_security"/>
                 <element inactive_on_update="false" label="Photonics" sequence="3" value="photonics"/>
@@ -71,6 +72,9 @@
                 <element inactive_on_update="false" label="Review – Admissions committee" value="review_admissions_committee"/>
                 <element inactive_on_update="false" label="Review – Dean" value="review _dean"/>
                 <element inactive_on_update="false" label="Review – Graduate faculty" value="review _graduate_faculty"/>
+                <element inactive_on_update="false" label="Review - Admission Committee" sequence="0" value="Review - Admission Committee"/>
+                <element inactive_on_update="false" label="Review - Dean" sequence="0" value="Review - Dean"/>
+                <element inactive_on_update="false" label="Review - Graduate Faculty" sequence="0" value="Review - Graduate Faculty"/>
             </choice>
         </element>
         <element choice="3" default="approved" label="State" max_length="40" name="state" type="choice">
